@@ -1,0 +1,55 @@
+<resources>
+    <string name="app_name">Inventory App</string>
+
+    <string name="empty_view">You Dont have anything yet</string>
+
+    <string name="add_inventory">Add some items using this floating Button</string>
+
+    <string name="supplier_category">Supplier Info</string>
+
+    <string name="vendor_name">Vendor Name</string>
+
+    <string name="vendor_phone">Vendor Phone</string>
+
+    <string name="product_name">Product Name</string>
+
+    <string name="quantity">Quantity</string>
+
+    <string name="price">Price</string>
+
+    <string name="reorder_button">Reorder</string>
+
+    <string name="solde_one_button">Sold One</string>
+
+    <string name="items_left">Items Left:  </string>
+
+    <string name="currency"> S.R</string>
+
+    <string name="add_product">Add Product</string>
+
+    <string name="edit_product">Edit product</string>
+
+    <string name="succesful">Product Added</string>
+
+    <string name="failed">Product not added</string>
+
+    <string name="unsaved_changes_dialog_msg">Discard your changes and quit editing?</string>
+
+    <string name="discard">Discard</string>
+
+    <string name="keep_editing">Keep Editing</string>
+
+    <string name="delete_dialog_msg">Delete this product?</string>
+
+    <string name="delete">Delete</string>
+
+    <string name="cancel">Cancel</string>
+
+    <string name="deleted">Product Deleted</string>
+
+    <string name="didnt_delet">Product wasnt deleted</string>
+
+    <string name="add_picture">Add Picture</string>
+
+
+</resources>
